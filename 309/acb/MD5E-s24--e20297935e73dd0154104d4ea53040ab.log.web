@@ -30,3 +30,15 @@
 1754521389s 1 https://api.dandiarchive.org/api/zarr/50735875-8d6c-4f03-b56b-42edee43966a/files?prefix=stimulus%2Fpresentation%2F.zgroup&download=true
 1754521389s 1 https://dandiarchive.s3.amazonaws.com/zarr/50735875-8d6c-4f03-b56b-42edee43966a/stimulus/templates/.zgroup?versionId=GPhvtxStqgR6cL834w3pn5R02nBWkXqn
 1754521389s 1 https://api.dandiarchive.org/api/zarr/50735875-8d6c-4f03-b56b-42edee43966a/files?prefix=stimulus%2Ftemplates%2F.zgroup&download=true
+1754525241s 1 https://dandiarchive.s3.amazonaws.com/zarr/50735875-8d6c-4f03-b56b-42edee43966a/general/devices/Microscope/.zgroup?versionId=Pe5inE88tku8DWvuBnjOyoKEFfmmCXIu
+1754525241s 1 https://api.dandiarchive.org/api/zarr/50735875-8d6c-4f03-b56b-42edee43966a/files?prefix=general%2Fdevices%2FMicroscope%2F.zgroup&download=true
+1754525241s 1 https://dandiarchive.s3.amazonaws.com/zarr/50735875-8d6c-4f03-b56b-42edee43966a/general/optophysiology/ImagingPlane/.zgroup?versionId=aZ5TsbegcJcvJ9eLN2.Dz5CTO_snDmU8
+1754525241s 1 https://api.dandiarchive.org/api/zarr/50735875-8d6c-4f03-b56b-42edee43966a/files?prefix=general%2Foptophysiology%2FImagingPlane%2F.zgroup&download=true
+1754525241s 1 https://dandiarchive.s3.amazonaws.com/zarr/50735875-8d6c-4f03-b56b-42edee43966a/general/optophysiology/ImagingPlane/Channel%200/.zgroup?versionId=xZIXJbwwVTfEyFL1y.d7M1BMyHzXsnRc
+1754525241s 1 https://api.dandiarchive.org/api/zarr/50735875-8d6c-4f03-b56b-42edee43966a/files?prefix=general%2Foptophysiology%2FImagingPlane%2FChannel+0%2F.zgroup&download=true
+1754525242s 1 https://dandiarchive.s3.amazonaws.com/zarr/50735875-8d6c-4f03-b56b-42edee43966a/specifications/core/2.9.0/.zgroup?versionId=Bq3xOjeerGGdwy3Sk3.cdqJYyaVf0TTp
+1754525242s 1 https://api.dandiarchive.org/api/zarr/50735875-8d6c-4f03-b56b-42edee43966a/files?prefix=specifications%2Fcore%2F2.9.0%2F.zgroup&download=true
+1754525242s 1 https://dandiarchive.s3.amazonaws.com/zarr/50735875-8d6c-4f03-b56b-42edee43966a/specifications/hdmf-common/1.8.0/.zgroup?versionId=WQQWMX_5CInlNP4C0kvePbT1OjEulTKs
+1754525242s 1 https://api.dandiarchive.org/api/zarr/50735875-8d6c-4f03-b56b-42edee43966a/files?prefix=specifications%2Fhdmf-common%2F1.8.0%2F.zgroup&download=true
+1754525242s 1 https://dandiarchive.s3.amazonaws.com/zarr/50735875-8d6c-4f03-b56b-42edee43966a/specifications/hdmf-experimental/0.5.0/.zgroup?versionId=FTsXrRtdZqZl5f8HvGMreGn3vvlUmWKy
+1754525242s 1 https://api.dandiarchive.org/api/zarr/50735875-8d6c-4f03-b56b-42edee43966a/files?prefix=specifications%2Fhdmf-experimental%2F0.5.0%2F.zgroup&download=true
